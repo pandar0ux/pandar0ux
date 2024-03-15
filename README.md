@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour, je suis Anatole 👋.
+
+Je travaille régulièrement en Java et en C, même si j'ai une préférence pour le développement web. En ce moment, j'apprends JavaScript et TypeScript avec les bibliothèques Express, Prisma et React Router.
 
 <!--
 **pandar0ux/pandar0ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
